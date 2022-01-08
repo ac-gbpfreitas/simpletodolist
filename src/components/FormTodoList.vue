@@ -192,4 +192,8 @@
   .addBtn:hover {
     background-color: #bbb;
   }
+
+  .done {
+    text-decoration: line-through;
+  }
 </style>
